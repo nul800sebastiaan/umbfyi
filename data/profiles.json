@@ -38,6 +38,18 @@
     ]
   },
   {
+    "alias": "cultiv",
+    "name": "Sebastiaan Janssen",
+    "description": "Developer Advocate at Umbraco, kayaker, (live) music lover and a bit of a nerd 🤘",
+    "url": "https://cultiv.dev",
+    "avatar": "https://github.com/nul800sebastiaan.png",
+    "sources": [
+      "https://cultiv.nl",
+      "https://dev.to/cultiv",
+      "https://cultiv.social/@sebastiaan",
+    ]
+  },
+  {
     "alias": "dkumarmj",
     "name": "Dhanesh Kumar MJ",
     "description": "Umbraco MVP, Umbraco India Users Group organiser, working at Phases.io",
@@ -227,20 +239,6 @@
       "https://www.meetup.com/umbraco-india-users-group",
       "https://www.youtube.com/channel/UCmggGelTqiq2L3q5BNAKx9w",
       "https://www.uiug.in"
-    ]
-  },
-  {
-    "alias": "cultiv",
-    "name": "Sebastiaan Janssen",
-    "description": "Developer Advocate at Umbraco, kayaker, (live) music lover and a bit of a nerd 🤘",
-    "url": "https://cultiv.dev",
-    "avatar": "https://github.com/nul800sebastiaan.png",
-    "sources": [
-      "https://cultiv",
-      "https://cultiv.nl",
-      "https://dev.to/cultiv",
-      "https://cultiv.social/@sebastiaan",
-      
     ]
   }
 ]
